@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages - kubernetes...zzzzzzzz
+## Welcome to GitHub Pages - kubernetes...xx
 
 ![alt text](kubernetes-parte1.png "kube..")
 
