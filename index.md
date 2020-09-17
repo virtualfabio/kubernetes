@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages - kubernetes...zzzzzzzz
 
-![alt text](image.jpg "title")
+![alt text](kubernetes-parte1.png "kube..")
 
 aaaa You can use the [editor on GitHub](https://github.com/virtualfabio/kubernetes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
